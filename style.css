@@ -1,0 +1,43 @@
+*{
+
+    background-color: lightblue;
+}
+
+#profile-photo {
+
+    width: 300px;
+    height: 300px;
+}
+
+header {
+    padding: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: green;
+    color: red;
+
+}
+
+h1{ 
+    display: inline-block;
+    font-size: 30px;
+    color: white;
+    
+}
+
+header nav {
+    padding-top: 25px;
+    margin-right: 30px;
+    float: right;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+
+header ul li {
+    display: inline-block;
+    list-style-type: none;
+    margin-left: 30px;
+
+}
+
+
+

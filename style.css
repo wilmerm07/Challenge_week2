@@ -14,8 +14,17 @@ header {
     font-family: 'Times New Roman', Times, serif;
     background-color: green;
     color: red;
-
 }
+
+.content {
+    width: 80%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+
+
+
 
 h1{ 
     display: inline-block;
@@ -39,5 +48,13 @@ header ul li {
 
 }
 
+.work-image {
+    width: 700px;
+    height: 400px;
 
+}
+
+h2#contact-me {
+    color: purple;
+}
 

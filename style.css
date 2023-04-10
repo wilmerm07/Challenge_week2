@@ -49,10 +49,13 @@ header ul li {
 }
 
 .work-image {
-    width: 700px;
-    height: 400px;
+    width: 500px;
+    height: 300px;
+    display: inline-block;
+
 
 }
+
 
 main section h2 {
     color: navy;

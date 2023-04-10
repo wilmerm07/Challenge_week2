@@ -1,6 +1,6 @@
 *{
 
-    background-color: lightblue;
+    background-color: #9cadba;
 }
 
 #profile-photo {
@@ -29,7 +29,7 @@ header {
 h1{ 
     display: inline-block;
     font-size: 30px;
-    color: white;
+    color: rgb(13, 62, 136);
     
 }
 
@@ -54,7 +54,37 @@ header ul li {
 
 }
 
-h2#contact-me {
-    color: purple;
+main section h2 {
+    color: navy;
 }
 
+.description {
+    border-style: solid;
+    color: blueviolet;
+    padding: 5px;
+
+}
+
+.workmonitor {
+    color:green;
+    border-style: solid;
+    padding: 5px;
+    
+    
+}
+
+.personal-info {
+    color: yellow;
+    border-style: solid;
+    padding: 5px;
+    
+}
+
+
+
+.Skills {
+    border-style: solid;
+    padding: 5px;
+
+    
+}

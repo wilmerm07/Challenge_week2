@@ -48,10 +48,21 @@ header ul li {
 
 }
 
+.work {
+    
+}
+
+.container {
+    display: flex;
+    width:100%;
+    
+
+}
 .work-image {
     width: 500px;
     height: 300px;
-    display: inline-block;
+    flex-grow: 1;
+    
 
 
 }

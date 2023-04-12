@@ -28,8 +28,8 @@ h1{
 header nav {
     
     float: right;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
-    font-size: 22px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
 }
 
 nav ul {
@@ -235,6 +235,10 @@ section h2 {
     color: white;
 }
 
+#contact-me ul {
+   text-align: center;
+
+}
 
 #contact-me a {
     color: white;
